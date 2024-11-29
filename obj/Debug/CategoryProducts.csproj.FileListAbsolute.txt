@@ -1,0 +1,16 @@
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\bin\Debug\CategoryProducts.exe.config
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\bin\Debug\CategoryProducts.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\bin\Debug\CategoryProducts.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.csproj.AssemblyReference.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.Log_in_form.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.Properties.Resources.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.csproj.GenerateResource.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.csproj.CoreCompileInputs.cache
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.exe
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.pdb
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.Sign_up.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.BackendProgram.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.Add_form.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.Salary_Statement.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.ProgramInfo.resources
+C:\Users\brobj\OneDrive\Рабочий стол\Вуз\ТРПО\CategoryProducts\obj\Debug\CategoryProducts.ControlStatus.resources
